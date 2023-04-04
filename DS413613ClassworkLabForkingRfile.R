@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 mpg
-# My name is Pete Magee
+# My name is jack lo
 # This is my coding that generates Boxplots for transmission types
 # The data source is the mpg data table
 ggplot(data = mpg) +
